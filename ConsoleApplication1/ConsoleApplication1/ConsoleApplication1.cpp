@@ -6,7 +6,6 @@ using namespace std;
 
 int main()
 {
-    srand(time(NULL));
 
     // 戦力
     int allyPower = 100;
