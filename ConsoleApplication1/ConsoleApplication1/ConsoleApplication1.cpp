@@ -17,8 +17,6 @@ int main()
     int enemyAttack = 0;
 
     // 行動
-    // 0 = 攻撃
-    // 1 = 防御
     int allyAction = rand() % 2;
     int enemyAction = rand() % 2;
 
